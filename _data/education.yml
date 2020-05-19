@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bacharela em Medicina Veterinária
+  uni: Universidade de Brasília
+  year: 2019
+  # awards:
+  #   - award: Summa Cumme Laude graduate
+  summary: Estive envolvida em diversas atividades de pesquisa e extensão. Participei de três projetos de iniciação científica (PIBIC) e um projeto de Extensão (PIBEX). Possuo diversas publicações em periódicos da área de Medicina Veterinária.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Ensino Médio
+  uni: Colégio Militar de Brasília
+  year: 2011
+  # award: Most likely to succeed
+  summary: 
